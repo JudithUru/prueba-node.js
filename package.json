@@ -1,0 +1,26 @@
+{
+  "name": "prueba-api-docx",
+  "version": "1.0.0",
+  "description": "Creacion de una API para contruir documentos de Word",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JudithUru/prueba-node.js.git"
+  },
+  "author": "Judith Uruchima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JudithUru/prueba-node.js/issues"
+  },
+  "homepage": "https://github.com/JudithUru/prueba-node.js#readme",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "html-docx-js": "^0.3.1",
+    "uuid": "^11.1.0"
+  }
+}
