@@ -116,6 +116,12 @@ curl -X POST http://localhost:3000/api/generar-doc \
 
 ---
 
+## 👩‍💻 Autora
+
+- **Judith Uruchima**
+
+---
+
 ## 📝 Tecnologías utilizadas
 
 - [Node.js](https://nodejs.org/)
