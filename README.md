@@ -40,7 +40,7 @@ Crear un archivo `.env` donde puedes definir las credenciales de autenticación:
 
 ```env
 USER=admin
-PASS=12345
+PASSWORD=12345
 PORT=3000
 ```
 
